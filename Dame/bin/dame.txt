@@ -1,0 +1,66 @@
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+O
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+X
+[Font: Name=Arial, Size=28, Units=3, GdiCharSet=1, GdiVerticalFont=False]
+3
+0
